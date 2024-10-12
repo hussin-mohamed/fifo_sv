@@ -1,0 +1,8 @@
+fifo_interface.sv
+FIFO_corrected.sv
+trans_pck.sv
+score_pck.sv
+cover_pck.sv
+fifo_monitor.sv
+fifo_tb.sv
+fifo_top.sv
